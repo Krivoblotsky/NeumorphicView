@@ -30,6 +30,8 @@ self.view.addSubview(neumorphicView)
 
 ### Setup
 
+`NeumorphicView` has several basic inspectable properties to play with.
+
 ```swift
 
 @IBInspectable var cornerRadius: CGFloat = 10 {
