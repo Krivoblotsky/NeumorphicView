@@ -2,6 +2,10 @@
 
 NeumoprhicView is a simple `NSView` subclass that demonstrates the way of creation neumorphic-like views on macOS.
 
+<p float="center">
+  <img src="/Screenshots/logo.png"/>
+</p>
+
 ### Requirements
 
 * macOS 10.12+
