@@ -1,7 +1,5 @@
 # NeumorphicView
 
-> Neumorphism
-
 > Neumorphism (or Neo-skeuomorphism) is a modern iteration of a style of designing web elements, frames, screens, etc. known as Skeuomorphism. SO, Neumorphism is a witty (right?) combo of the words “New” and “Skeuomorphism”.
 
 NeumoprhicView is a simple `NSView` subclass that demonstrates the way of creation neumorphic-like views on macOS.
