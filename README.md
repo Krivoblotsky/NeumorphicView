@@ -2,6 +2,10 @@
 
 NeumoprhicView is a simple `NSView` subclass that demonstrates the way of creation neumorphic-like views on macOS.
 
+### Requirements
+
+* macOS 10.12+
+
 ### Installation
 
 `NeumorphicView` is available via Swift Package Manager.
