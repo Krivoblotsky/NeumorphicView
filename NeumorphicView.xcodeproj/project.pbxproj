@@ -57,7 +57,6 @@
 		A7768F7523ECACDE0088A416 /* NemorphicView */ = {
 			isa = PBXGroup;
 			children = (
-				A7768F8C23ECAD110088A416 /* Extensions */,
 				A7768F8A23ECAD110088A416 /* NeomorphicView */,
 				A7768F7623ECACDE0088A416 /* AppDelegate.swift */,
 				A7768F7823ECACDE0088A416 /* ViewController.swift */,
@@ -66,12 +65,14 @@
 				A7768F7F23ECACE00088A416 /* Info.plist */,
 				A7768F8023ECACE00088A416 /* NemorphicView.entitlements */,
 			);
-			path = NemorphicView;
+			name = NemorphicView;
+			path = NeumorphicView;
 			sourceTree = "<group>";
 		};
 		A7768F8A23ECAD110088A416 /* NeomorphicView */ = {
 			isa = PBXGroup;
 			children = (
+				A7768F8C23ECAD110088A416 /* Extensions */,
 				A7768F8B23ECAD110088A416 /* NeumorphicView.swift */,
 			);
 			path = NeomorphicView;
@@ -293,17 +294,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = NemorphicView/NemorphicView.entitlements;
+				CODE_SIGN_ENTITLEMENTS = NeumorphicView/NemorphicView.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = HZDV87FDVL;
 				ENABLE_HARDENED_RUNTIME = YES;
-				INFOPLIST_FILE = NemorphicView/Info.plist;
+				INFOPLIST_FILE = NeumorphicView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.krivoblotsky.NemorphicView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.krivoblotsky.NeumorphicView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -313,17 +314,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = NemorphicView/NemorphicView.entitlements;
+				CODE_SIGN_ENTITLEMENTS = NeumorphicView/NemorphicView.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = HZDV87FDVL;
 				ENABLE_HARDENED_RUNTIME = YES;
-				INFOPLIST_FILE = NemorphicView/Info.plist;
+				INFOPLIST_FILE = NeumorphicView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.krivoblotsky.NemorphicView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.krivoblotsky.NeumorphicView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
