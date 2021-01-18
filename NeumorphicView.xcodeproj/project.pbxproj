@@ -43,7 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				A777729625B54AD0002BE0B1 /* README.md */,
-				A7768F7523ECACDE0088A416 /* NemorphicView */,
+				A7768F7523ECACDE0088A416 /* NeumorphicView */,
 				A7768F7423ECACDE0088A416 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,10 +56,10 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A7768F7523ECACDE0088A416 /* NemorphicView */ = {
+		A7768F7523ECACDE0088A416 /* NeumorphicView */ = {
 			isa = PBXGroup;
 			children = (
-				A7768F8A23ECAD110088A416 /* NeomorphicView */,
+				A7768F8A23ECAD110088A416 /* NeumorphicView */,
 				A7768F7623ECACDE0088A416 /* AppDelegate.swift */,
 				A7768F7823ECACDE0088A416 /* ViewController.swift */,
 				A7768F7A23ECACE00088A416 /* Assets.xcassets */,
@@ -67,17 +67,16 @@
 				A7768F7F23ECACE00088A416 /* Info.plist */,
 				A7768F8023ECACE00088A416 /* NemorphicView.entitlements */,
 			);
-			name = NemorphicView;
 			path = NeumorphicView;
 			sourceTree = "<group>";
 		};
-		A7768F8A23ECAD110088A416 /* NeomorphicView */ = {
+		A7768F8A23ECAD110088A416 /* NeumorphicView */ = {
 			isa = PBXGroup;
 			children = (
 				A7768F8C23ECAD110088A416 /* Extensions */,
 				A7768F8B23ECAD110088A416 /* NeumorphicView.swift */,
 			);
-			path = NeomorphicView;
+			path = NeumorphicView;
 			sourceTree = "<group>";
 		};
 		A7768F8C23ECAD110088A416 /* Extensions */ = {
