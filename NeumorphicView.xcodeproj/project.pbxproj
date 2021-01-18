@@ -25,6 +25,7 @@
 		A7768F8023ECACE00088A416 /* NemorphicView.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NemorphicView.entitlements; sourceTree = "<group>"; };
 		A7768F8B23ECAD110088A416 /* NeumorphicView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NeumorphicView.swift; sourceTree = "<group>"; };
 		A7768F8D23ECAD110088A416 /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		A777729625B54AD0002BE0B1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		A7768F6A23ECACDE0088A416 = {
 			isa = PBXGroup;
 			children = (
+				A777729625B54AD0002BE0B1 /* README.md */,
 				A7768F7523ECACDE0088A416 /* NemorphicView */,
 				A7768F7423ECACDE0088A416 /* Products */,
 			);
@@ -304,6 +306,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = com.krivoblotsky.NeumorphicView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -324,6 +327,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = com.krivoblotsky.NeumorphicView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
