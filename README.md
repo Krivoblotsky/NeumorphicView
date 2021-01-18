@@ -72,6 +72,12 @@ See `NeumorphicView.xcodeproj` for the demo.
   <img src="/Screenshots/Screenshot3.png"/>
 </p>
 
+### Links
+
+* https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6
+* https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a
+* https://neumorphism.io/
+
 ### License
 
 ```
