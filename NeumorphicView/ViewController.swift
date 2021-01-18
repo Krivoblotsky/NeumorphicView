@@ -49,6 +49,9 @@ final class ViewController: NSViewController {
     
     @IBAction func convexSliderValueChanged(_ sender: Any) {
         updateView()
+        
+        let neumorphicView = NeumorphicView(frame: NSRect(x: 0, y: 0, width: 100, height: 100))
+        self.view.addSubview(neumorphicView)
     }
 }
 
